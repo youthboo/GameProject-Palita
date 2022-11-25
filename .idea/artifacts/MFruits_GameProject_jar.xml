@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MFruits_GameProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MFruits_GameProject_jar</output-path>
+    <root id="archive" name="MFruits_GameProject.jar">
+      <element id="module-output" name="MFruits_GameProject" />
+    </root>
+  </artifact>
+</component>
